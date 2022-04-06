@@ -1,4 +1,4 @@
-# ![bootstrap](https://user-images.githubusercontent.com/96433729/162066190-557cca32-8a13-4489-add3-0a3e99be423a.png)
+# ![bootstrap](https://user-images.githubusercontent.com/96433729/162066707-ca3acd92-c269-4738-b4e7-6ab2bbcd7efa.png)
 
 **Custom code execution for Auxilium, JesusAI & more**
 
