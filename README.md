@@ -9,6 +9,9 @@ Simply put your desired CFW in the "replace.txt" file & use NTRBoot to hack your
 
 ## FAQ
 
+### How does boot9strap work?
+Magic hax.
+
 ### Can I put any CFW into boot9strap?
 Technically, yes. As long as your CFW / hax works and is properly formatted with the game you want to alter,
 boot9strap will do the rest for you. It's the easiest tool to use for modding so far.
