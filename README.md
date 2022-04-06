@@ -16,7 +16,7 @@ boot9strap will do the rest for you. It's the easiest tool to use for modding so
 ### What games are available for boot9strap?
 Currently only Auxilium is supported. Other planned games are JesusAI, Flip a Coin & alist.
 
-### Will boot9strap always befree?
+### Will boot9strap always be free?
 Yes.
 
 ### Are updates planned?
