@@ -1,0 +1,13 @@
+,---.,---.,---. 
+|   ||   ||   | 
+|   ||   ||   | 
+|   ||   ||   | 
+|  .'|  .'|  .' 
+`--' `--' `--'  
+.--. .--. .--.  
+`--' `--' `--'  
+
+WARNING!!!
+Altering the "replace.txt" file (if you don't know what you're doing) will probably break something.
+If you delete this file or mess it up, boot9strap will fail! You will need to redownload it to fix it.
+BE CAREFUL! TAKE CARE WHEN EDITING IMPORTANT FILES!
